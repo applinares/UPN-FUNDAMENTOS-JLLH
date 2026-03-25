@@ -1,0 +1,2 @@
+Bienvenido
+Esta es mi primer prueba de la clase de fundamento de algoritmos.
